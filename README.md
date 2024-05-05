@@ -7,13 +7,18 @@ Laboratorio desarrollado en el laboratorio de robotica de la universidad de la s
   
 Tabla de Contenidos
 ---
-
+- [Introducción](#introducción)
+- [Robot usado](#robot-usado)
+- [Programa usado](#programa-usado)
+- [Código](#código)
+- [Video](#video)
+- [Conclusiones](#conclusiones)
 
 
 
 ## Introducción
 ## Robot usado
 ## Programa usado
-## Codigo
+## Código
 ## Video
 ## Conclusiones
