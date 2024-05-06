@@ -13,8 +13,8 @@ Tabla de Contenidos
 - [Programa usado](#programa-usado)
 - [Código](#código)
 - [Video](#video)
-  - [Simulación]()
-  - [Movimiento del robot]() 
+  - [Simulación](#simulación)
+  - [Movimiento del robot](#movimiento-del-robot) 
 - [Conclusiones](#conclusiones)
 
 
