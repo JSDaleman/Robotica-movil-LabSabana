@@ -13,6 +13,8 @@ Tabla de Contenidos
 - [Programa usado](#programa-usado)
 - [Código](#código)
 - [Video](#video)
+  - [Simulación]()
+  - [Movimiento del robot]() 
 - [Conclusiones](#conclusiones)
 
 
@@ -44,6 +46,15 @@ A continuación se muestra el programa en bloques que se uso el cual consiste en
 En donde en la secuencai empieza sentandose, luego se para, hace varios movimientosa de brazos y por ultimo termina en la postura inical de pie.
 
 ## Video
+
+### Simulación 
+
+https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/55536ab6-1ede-4aba-b40a-66d390bd6e8b
+
+### Movimiento del robot
+
+https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/580b8fe2-9ebd-4d23-a884-60d549abe01a
+
 
 
 ## Conclusiones
