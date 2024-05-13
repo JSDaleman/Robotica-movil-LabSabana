@@ -30,6 +30,9 @@ El enfoque principal del NAO V6 es el de imitar lo más fielmente posible a un s
 En este proyecto, se exploraron las capacidades de programación del NAO V6 utilizando el software Choregraphe 2.8.7.4 de Aldebaran Robotics. Se desarrolló un programa que combina movimientos físicos del robot con mensajes verbales, demostrando así su capacidad para interactuar de manera multimodal con su entorno y con los usuarios.
 
 ## Robot usado
+
+Toda la documentación del robot se encuentra disponible en: https://doc.aldebaran.com/2-8/home_nao.html.
+
 **NAO V6**
 
 ![image](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/167ac246-14ec-4741-b303-95b04a9ac879)
