@@ -75,4 +75,16 @@ El desarrollo de este proyecto nos permitió adquirir una comprensión más prof
 
 A continuación, se presentan algunos videos que muestran otras capacides y rutinas del robot. Lo presentado a continuación son videos que se tomaron el día de la práctica, mas no fueron rutinas programadas por nosotros.
 
+Este video muestra el último paso de una rutina predeterminada de Thai Chi:
+
+https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/96d65aa0-57eb-4f0c-b3fc-d6bf9931fdb5
+
+Este video muestra los movimientos que realiza el robot en posición de arquero de fútbol:
+
+https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/c01edcb9-d1a6-47c4-aa64-41a82bd444ca
+
+Este video muestra la interacción estándar predefinida cuando le tocan los pies al robot (el robot detecta el contacto y dirige la mirada hacia dónde lo tocaron):
+
+https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/31cf79ee-894e-40f0-a216-f912a85ca107
+
 
