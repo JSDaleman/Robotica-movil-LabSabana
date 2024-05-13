@@ -31,7 +31,7 @@ En este proyecto, se exploraron las capacidades de programación del NAO V6 util
 
 ## Robot usado
 
-Toda la documentación del robot se encuentra disponible en: https://doc.aldebaran.com/2-8/home_nao.html.
+Toda la documentación del robot se encuentra disponible en: http://doc.aldebaran.com/2-8/home_nao.html.
 
 **NAO V6**
 
