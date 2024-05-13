@@ -86,5 +86,3 @@ https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/c01edcb9-d
 Este video muestra la interacción estándar predefinida cuando le tocan los pies al robot (el robot detecta el contacto y dirige la mirada hacia dónde lo tocaron):
 
 https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/31cf79ee-894e-40f0-a216-f912a85ca107
-
-
