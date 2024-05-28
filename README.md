@@ -9,6 +9,7 @@ Laboratorio desarrollado en el Laboratorio LUX de la Universidad de la Sabana pa
 Tabla de Contenidos
 ---
 - [Introducción](#introducción)
+- [Instalaciones y equipo]
 - [Robot usado](#robot-usado)
 - [Programa usado](#programa-usado)
 - [Código](#código)
@@ -28,6 +29,8 @@ El NAO V6 se ha consolidado como una pieza esencial en el semillero de robótica
 El enfoque principal del NAO V6 es el de imitar lo más fielmente posible a un ser humano, lo cual se refleja en su integración de sensores y algoritmos de inteligencia artificial que le permiten detectar elementos y personas en su entorno. El robot puede identificar a las personas que lo rodean y entablar interacciones con ellas mediante gestos, diálogos y adaptación de sus acciones según atributos como la edad y el sexo, detectados a través de sus sensores y algoritmos.
 
 En este proyecto, se exploraron las capacidades de programación del NAO V6 utilizando el software Choregraphe 2.8.7.4 de Aldebaran Robotics. Se desarrolló un programa que combina movimientos físicos del robot con mensajes verbales, demostrando así su capacidad para interactuar de manera multimodal con su entorno y con los usuarios.
+
+## Instalaciones y equipo
 
 ## Robot usado
 
@@ -66,15 +69,7 @@ https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/55536ab6-1
 
 https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/580b8fe2-9ebd-4d23-a884-60d549abe01a
 
-## Conclusiones
-
-El desarrollo de este proyecto nos permitió adquirir una comprensión más profunda de las capacidades y limitaciones del robot NAO V6, así como de las herramientas de programación disponibles para trabajar con él. Algunas de las conclusiones clave que obtuvimos incluyen:
-
-- **Versatilidad del NAO V6:** El robot demostró una amplia gama de capacidades, desde movimientos físicos complejos hasta reconocimiento y generación de voz.
-- **Facilidad de programación:** El software Choregraphe proporcionó una interfaz intuitiva para programar el robot mediante bloques, lo que facilitó el desarrollo del programa.
-- **Interacción multimodal:** Logramos crear una experiencia de interacción multimodal, combinando movimientos físicos con mensajes verbales, lo que resalta el potencial del NAO V6 para aplicaciones de asistencia y entretenimiento.
-
-## Videos extra
+## Otras actividades realizadas
 
 A continuación, se presentan algunos videos que muestran otras capacides y rutinas del robot. Lo presentado a continuación son videos que se tomaron el día de la práctica, mas no fueron rutinas programadas por nosotros.
 
@@ -89,3 +84,38 @@ https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/c01edcb9-d
 Este video muestra la interacción estándar predefinida cuando le tocan los pies al robot (el robot detecta el contacto y dirige la mirada hacia dónde lo tocaron):
 
 https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/31cf79ee-894e-40f0-a216-f912a85ca107
+
+## Interacción con los robots
+
+
+## Preguntas
+
+- ¿Por qué es importante estudiar y trabajar con robots humanoides en el campo de
+la robótica?
+
+
+- ¿Qué características distintivas tienen los robots NAO que los hacen útiles para la
+enseñanza y la investigación?
+
+
+
+## Conclusiones
+
+El desarrollo de este proyecto nos permitió adquirir una comprensión más profunda de las capacidades y limitaciones del robot NAO V6, así como de las herramientas de programación disponibles para trabajar con él. Algunas de las conclusiones clave que obtuvimos incluyen:
+
+- **Versatilidad del NAO V6:** El robot demostró una amplia gama de capacidades, desde movimientos físicos complejos hasta reconocimiento y generación de voz.
+- **Facilidad de programación:** El software Choregraphe proporcionó una interfaz intuitiva para programar el robot mediante bloques, lo que facilitó el desarrollo del programa.
+- **Interacción multimodal:** Logramos crear una experiencia de interacción multimodal, combinando movimientos físicos con mensajes verbales, lo que resalta el potencial del NAO V6 para aplicaciones de asistencia y entretenimiento.
+
+## Opiniones personales
+
+- **Juan Daleman:**
+- **Felipe Cruz:**
+- **Alejandro Duran:**
+
+## Anexos
+
+- [Guia de usuario](https://www.aldebaran.com/en/support/nao-6/1-meet-nao)
+- [Robocup](https://www.youtube.com/watch?v=LBTdMKiuRvY)
+
+
