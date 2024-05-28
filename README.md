@@ -11,6 +11,7 @@ Tabla de Contenidos
 - [Introducción](#introducción)
 - [Instalaciones y equipo](#instalaciones-y-equipo)
 - [Robot usado](#robot-usado)
+- [Entorno de desarrollo: Choregraphe](#entorno-de-desarrollo-choregraphe)
 - [Programa usado](#programa-usado)
 - [Código](#código)
 - [Resultados](#resultados)
@@ -77,7 +78,7 @@ A continuación se muestra el programa en bloques que se usó, el cual consiste 
 
 ![image](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/0fa04320-ced3-4f85-b00d-c0316ad7b9cc)
 
-La secuencia empieza sentándose(sit down), luego se para(), hace varios movimientosa de brazos y por ultimo termina en la postura inical de pie.
+La secuencia empieza sentándose(sit down), luego se para(Stand up), hace varios movimientosa de brazos y por ultimo termina en la postura inical de pie.
 
 ## Resultados
 
@@ -105,7 +106,22 @@ Este video muestra la interacción estándar predefinida cuando le tocan los pie
 
 https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/31cf79ee-894e-40f0-a216-f912a85ca107
 
+Asimismo se hicieron otras rutinas con el robot como:
+
+- Comandos de voz donde se mostraba como el robot podia identificar palabras dadas por una persona
+- Control remoto donde se vio como atrabez de una conexión por ssh se podia manejar el robot de forma remota
+- Reconocimiento facial donde el robot con sus camaras identificaba la presencia de rostros
+
 ## Interacción con los robots
+
+**Experencia practica:** La interacción con los robots en las diferentes actividades fue con comandos de voz, en el caso de programación propio fue por cable ethernet, interacción con reconocimiento de una porteria y el robot como portero, uso de luces y paralantes del robot para interacciones de baile y sonidos de acciones que realizaba.
+
+**Desafíos encontrados:** Conexión con el el pc y el robot el cual al no conocer la ip de este no se podia configurar correctamente la conexión lo cual se soluciono al oprimir el botondel pecho el robot dicto su dirección ip para conexión.
+
+**Resultados obtenidos:** Como se mostro en la sección de resultados se logro crear una rutina de movimiento funcional en la cual el robot generaba sonidos mientras realizaba acciones, se logro familiarizarse con el entorno de desarrollo Choregraphe, comprención de la complejidad que tiene los robots humanoides con sistemas que utilizan diferentes mecanismos y eslabones para sus movimientos.
+
+## Analisis y reflexión
+
 
 
 ## Preguntas
