@@ -39,8 +39,6 @@ En el laboratorio se tienen diferentes equipos importantes como un proyector par
 
 ## Robot usado
 
-Toda la documentación del robot se encuentra disponible en: http://doc.aldebaran.com/2-8/home_nao.html.
-
 **NAO V6**
 
 ![image](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/167ac246-14ec-4741-b303-95b04a9ac879)
@@ -48,6 +46,23 @@ Toda la documentación del robot se encuentra disponible en: http://doc.aldebara
 Este es un robot antropomorfo el cual posee 25 grados de libertad, 7 sensores táctiles, 4 micrófonos y parlantes, reconocimiento de voz en 20 idiomas diferentes y 2 cámaras. Cuenta con diferentes API's de programación siendo compatible con Visual Studio Code, CLion y PyCharm; siendo posible programarlo con Java, Lenguaje de bloques, Python y C++.
 
 ![image](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/ef0b1bbe-e690-4ca6-88be-6a64a2abc70a)
+
+## Entorno de desarrollo: Choregraphe
+
+![Diapositiva1](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/0bf1d5be-691e-47e6-a15e-c4752a3ce47f)
+
+En este entorno de desarrollo tenemos varios elementos como:
+- **Barra de opciones:** En esta tenemos varias pestañas para manejo de conexión, archivos,edición del software, opciones de visualización y soporte para el uso del software.
+- **Opciones de edición y conexión:** Aca encontramos herramientas para crear, abrir y guardar proyectos,desahacer y rehacer acciones, conexión al robot, cargar, depurar y ejecutar codigo.
+- **Árbol de archivos del proyecto:** En esta sección visualizamos los archivos usados en el proyecto
+- **Bloques de programación:** En esta sección exploramos y vemos todos los bloques de programación disponibles para diferentes rutinas del robot.
+
+![Diapositiva2](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/699c4995-cab7-4652-9b22-3ff3e77657bd)
+
+
+- **Espacio de programación:** En este espacio es donde se arrastran los bloques y se conectan para progrmar el robot.
+- **Linea de ejecución:** En esta podemos ver como se ejecuitara el codigo y los detalles en el tiempo de las acciones que se realizara.
+- **Ventan de simulación:** En esta veremos como actua el robot de forma simulada con el codigo.
 
 ## Programa usado
 
@@ -62,7 +77,7 @@ A continuación se muestra el programa en bloques que se usó, el cual consiste 
 
 ![image](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/70998067/0fa04320-ced3-4f85-b00d-c0316ad7b9cc)
 
-La secuencia empieza sentándose, luego se para, hace varios movimientosa de brazos y por ultimo termina en la postura inical de pie.
+La secuencia empieza sentándose(sit down), luego se para(), hace varios movimientosa de brazos y por ultimo termina en la postura inical de pie.
 
 ## Resultados
 
@@ -122,5 +137,6 @@ El desarrollo de este proyecto nos permitió adquirir una comprensión más prof
 
 - [Guia de usuario](https://www.aldebaran.com/en/support/nao-6/1-meet-nao)
 - [Robocup](https://www.youtube.com/watch?v=LBTdMKiuRvY)
+- [Documentación del NAO V6](http://doc.aldebaran.com/2-8/home_nao.html)
 
 
