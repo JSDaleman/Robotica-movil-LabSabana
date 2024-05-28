@@ -9,7 +9,7 @@ Laboratorio desarrollado en el Laboratorio LUX de la Universidad de la Sabana pa
 Tabla de Contenidos
 ---
 - [Introducción](#introducción)
-- [Instalaciones y equipo]
+- [Instalaciones y equipo](#instalaciones-y-equipo)
 - [Robot usado](#robot-usado)
 - [Programa usado](#programa-usado)
 - [Código](#código)
@@ -31,6 +31,11 @@ El enfoque principal del NAO V6 es el de imitar lo más fielmente posible a un s
 En este proyecto, se exploraron las capacidades de programación del NAO V6 utilizando el software Choregraphe 2.8.7.4 de Aldebaran Robotics. Se desarrolló un programa que combina movimientos físicos del robot con mensajes verbales, demostrando así su capacidad para interactuar de manera multimodal con su entorno y con los usuarios.
 
 ## Instalaciones y equipo
+
+El Laboratorio de Experiencias de Usuario, LUX (por su nombre en inglés), es un espacio interactivo y flexible construido para el acercamiento de los estudiantes a las herramientas informáticas. Aquí, los estudiantes desarrollan las prácticas de las clases fundamentales de la carrera de Ingeniería Informática, y tienen su primer contacto con la investigación en esta rama. El desarrollo de software y aplicaciones, el estudio de redes y comunicación así como la Introducción a la robótica, son solo tres campos ampliamente trabajados en este laboratorio. El laboratorio LUX fue diseñado y construido como un ambiente adaptable a las necesidades de sus usuarios. Su tecnología permite una gran diversidad de posibilidades en la estructura de enseñanza de las distintas clases allí impartidas, enmarcando un ambiente de aprendizaje continuo, en una atmósfera moderna y divertida para los estudiantes, investigadores y profesores.
+
+En el laboratorio se tienen diferentes equipos importantes como un proyector para la presentaciones, diferentes puntos de conexión electrica para los equipos utilizados (robots y PC) asi como puntos de conexión ethernet para acceso a internet. Los equipos más relevantes disponibles en el laboratorio estan los NAO y robot Bioloid para la enseñanza de robotica.
+
 
 ## Robot usado
 
