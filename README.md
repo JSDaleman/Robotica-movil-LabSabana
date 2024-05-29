@@ -16,9 +16,17 @@ Tabla de Contenidos
 - [Código](#código)
 - [Resultados](#resultados)
   - [Simulación](#simulación)
-  - [Movimiento del robot](#movimiento-del-robot) 
+  - [Movimiento del robot](#movimiento-del-robot)
+- [Otras actividades realizadas](#otras-actividades-realizadas)
+- [Interacción con los robots](#interacción-con-los-robots)
+- [Analisis y reflexión](#analisis-y-reflexión)
+  - [Aprendizajes clave](#aprendizajes-clave)
+  - [Aplicaciones prácticas](#aplicaciones-prácticas)
+  - [Sugerencias de mejora](#sugerencias-de-mejora)
+- [Preguntas](#preguntas) 
 - [Conclusiones](#conclusiones)
-- [Videos extra](#videos-extra)
+- [Opiniones personales](#opiniones-personales)
+- [Anexos](#anexos)
 
 
 ## Introducción
