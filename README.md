@@ -145,8 +145,6 @@ Entre las sugerencias para proximas visitas o actividades similares es tener una
 ## Preguntas
 
 - ¿Por qué es importante estudiar y trabajar con robots humanoides en el campo de la robótica?
-
-Trabajar con robots humanoides es fundamental en el campo de la robótica por varias razones clave entre ellas:
   - Pueden utilizar herramientas y dispositivos diseñados para humanos, facilitando su integración en entornos ya existentes sin necesidad de modificaciones significativas.
   - Su forma y comportamiento humanoides permiten una interacción más intuitiva y efectiva con las personas, aprovechando el lenguaje corporal y expresiones faciales para mejorar la comunicación.
   - Proporcionan plataformas complejas para desarrollar y probar algoritmos avanzados de inteligencia artificial, incluyendo el reconocimiento de voz, visión por computadora y toma de decisiones autónomas.
@@ -177,7 +175,7 @@ El desarrollo de este proyecto nos permitió adquirir una comprensión más prof
 
 ## Opiniones personales
 
-- **Juan Daleman:**
+- **Juan Daleman:** Esta experencia considero que es importante ya que la interacción con equipos roboticos permite comprender de una mejor manera las aplicaciones que se han estudiado en el curso, además de que la experencia con los NAO por sus caracteristicas lo devuelven a uno a como cuando era niño con un juguete despertando la curiosidad no solo de como funciona sino de como usarlo. Despieta un interes grande en como usar y programar un robot ya sea para hacer rutinas sencillas o solo para ver ciertos comportamientos automatas interezastes como puede ser hacer tai chi o bailar, me recordo mucho el como me comenzo a interezar la robotica y la belleza de ver como funcionan las maquinas.
 - **Felipe Cruz:**
 - **Alejandro Duran:**
 
