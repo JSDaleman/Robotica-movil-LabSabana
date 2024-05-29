@@ -122,18 +122,42 @@ Asimismo se hicieron otras rutinas con el robot como:
 
 ## Analisis y reflexión
 
+### Aprendizajes clave
 
+Entre los aprendizajes obtenidos de la visita esta el comprender que los robots humanoides poseen sistemas complejos cuyo analisis puede ser extenso dado que según las condiciones y elementos del mecanismo puede ser necesario tomar diferentes analisis para la compresión completa. En cuanto a la progrmación esta puede ser extensa y con diferentes consideraciones por la gran cantidad de elementos a controlar en el mecanismo como por elementos como sensores para mediciones de elementos del entorno del robot, cuidado de elementos del entorno como obstaculos o para actividades como jugar futbol.
+
+### Aplicaciones prácticas
+
+
+
+### Sugerencias de mejora
+
+Entre las sugerencias para proximas visitas o actividades similares es tener una guia para revisarse previamente para instalación de software necesario y entornos necesarios, con explicaciones sobre su funcionamiento. Asimismo saber que elementos o equipos propios como PC son necesarios en las precticas.
 
 ## Preguntas
 
-- ¿Por qué es importante estudiar y trabajar con robots humanoides en el campo de
-la robótica?
+- ¿Por qué es importante estudiar y trabajar con robots humanoides en el campo de la robótica?
 
+Trabajar con robots humanoides es fundamental en el campo de la robótica por varias razones clave entre ellas:
+  - Pueden utilizar herramientas y dispositivos diseñados para humanos, facilitando su integración en entornos ya existentes sin necesidad de modificaciones significativas.
+  - Su forma y comportamiento humanoides permiten una interacción más intuitiva y efectiva con las personas, aprovechando el lenguaje corporal y expresiones faciales para mejorar la comunicación.
+  - Proporcionan plataformas complejas para desarrollar y probar algoritmos avanzados de inteligencia artificial, incluyendo el reconocimiento de voz, visión por computadora y toma de decisiones autónomas.
+  - Integran una amplia gama de sensores y actuadores que imitan los sentidos y movimientos humanos, lo cual es crucial para la investigación en percepción y control.
+  - Son especialmente útiles en entornos dinámicos y no estructurados, como hogares, hospitales y oficinas, donde pueden realizar diversas tareas que requieren adaptabilidad y flexibilidad.
+  - Pueden realizar una variedad de tareas desde manipulación de objetos hasta asistencia a personas, lo que los hace extremadamente versátiles en comparación con otros tipos de robots.
+  - La construcción de robots humanoides impulsa la innovación en áreas como el diseño mecánico, control de movimientos y equilibrio, proporcionando soluciones que pueden aplicarse a otros tipos de robots.
+  - Estudiar y replicar el movimiento humano en robots lleva a un mejor entendimiento de la biomecánica y puede tener aplicaciones en medicina y rehabilitación.
+  - Los robots humanoides tienen un gran potencial en mercados como el de servicios personales, salud y educación, donde pueden mejorar la calidad de vida y aliviar la carga de trabajo humano..
 
-- ¿Qué características distintivas tienen los robots NAO que los hacen útiles para la
-enseñanza y la investigación?
-
-
+- ¿Qué características distintivas tienen los robots NAO que los hacen útiles para la enseñanza y la investigación?
+  - **Apariencia No Intimidante:** El diseño amigable y compacto de NAO (58 cm de altura) lo hace atractivo y no intimidante para estudiantes de todas las edades, facilitando su uso en entornos educativos.
+  - **Articulaciones y Movimientos Humanos:** NAO cuenta con 25 grados de libertad (DOF), lo que le permite realizar una amplia gama de movimientos y gestos humanos, enriqueciendo las interacciones.
+  - **Choregraphe:** Esta herramienta de software permite a los usuarios programar NAO a través de una interfaz gráfica intuitiva, ideal para principiantes y aquellos sin experiencia previa en programación.
+  - **Soporte Multilenguaje:** NAO es compatible con varios lenguajes de programación, incluyendo Python, C++, Java y MATLAB, ofreciendo flexibilidad a los investigadores y educadores para elegir el entorno que mejor se adapte a sus necesidades.
+  - **Sensores integrados:** La amplia gama de sensores que tiene integrado desde camaras, micrófonos, sensores táctiles en la cabeza, manos y pies, junto con sensores de fuerza en las articulaciones, permiten la interacción física y la retroalimentación sensorial.
+  - **Conexión inalambrica:** NAO puede conectarse a redes Wi-Fi, lo que facilita la comunicación remota y la integración con otros dispositivos y sistemas.
+  - **Batería Recargable:** La batería de larga duración de NAO permite sesiones prolongadas de uso sin interrupciones frecuentes, esencial para la enseñanza y los experimentos continuos.
+  - **Documentación Extensa:** NAO viene con una documentación detallada y recursos educativos que ayudan a los usuarios a maximizar su potencial en la enseñanza y la investigación.
 
 ## Conclusiones
 
