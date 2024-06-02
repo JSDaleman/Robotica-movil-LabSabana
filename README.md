@@ -177,8 +177,7 @@ El desarrollo de este proyecto nos permitió adquirir una comprensión más prof
 
 - **Juan Daleman:** Esta experencia considero que es importante ya que la interacción con equipos roboticos permite comprender de una mejor manera las aplicaciones que se han estudiado en el curso, además de que la experencia con los NAO por sus caracteristicas lo devuelven a uno a como cuando era niño con un juguete despertando la curiosidad no solo de como funciona sino de como usarlo. Despieta un interes grande en como usar y programar un robot ya sea para hacer rutinas sencillas o solo para ver ciertos comportamientos automatas interezastes como puede ser hacer tai chi o bailar, me recordo mucho el como me comenzo a interezar la robotica y la belleza de ver como funcionan las maquinas.
 - **Felipe Cruz:**
-- **Alejandro Duran:**
-
+- **Alejandro Duran:** Como se ha tratado ya variasa veces en el desarrollo del curso, me parece muy enriquecedor para el aprendizaje poder ver la aplicacion practica de los temas vistos en clase, asi como esta oportunidad de dispner de un espacio nuevo en el que tambien se observan los avances de colegas de otras Universidades, a nivel personal me parecio bastante interesante todo el asunto de las competencias en las que ha participado este equipo, y asi mismo como nos describieron estos espacios, los cuales escuchando lo estimulante y proppicios para el conocimiento que son por la manera en que se trata de que todos presenten sus avances con todos para generar un mayor impacto en este dearrollo de proyectos, me motiva incluso a plantearme la posibilidad de alguna vez con un proyecto interesante presentarme yo mismo en estos espacios de ser posible.
 ## Anexos
 
 - [Guia de usuario](https://www.aldebaran.com/en/support/nao-6/1-meet-nao)
