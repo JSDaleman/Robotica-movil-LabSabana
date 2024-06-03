@@ -45,6 +45,8 @@ El Laboratorio de Experiencias de Usuario, LUX (por su nombre en inglés), es un
 
 En el laboratorio se tienen diferentes equipos importantes como un proyector para las presentaciones, diferentes puntos de conexión eléctrica para los equipos utilizados (robots y PC) así como puntos de conexión Ethernet para acceso a internet. Los equipos más relevantes disponibles en el laboratorio son los robots NAO y robot Bioloid para la enseñanza de robótica.
 
+**Robot Bioloid**
+
 ![Bioloid](https://github.com/JSDaleman/Robotica-movil-LabSabana/assets/45526932/a7c82372-bdf1-4987-b8a8-5bfbc2c56768)
 
 ## Robot usado
